@@ -7,7 +7,7 @@ title: LitSkis - Adding excitement to your outdoor experience
 
   **Eye-catching, unique, and extremely fun addon LED strips for your skis, snowboard, or anything else!**
    
-  ### LitSki kits are  
+  ## LitSki kits are  
   * **Easy to install**
     * *Attach to any clean surface using the built in adhesive*
   * **Non-permanent**
@@ -18,14 +18,14 @@ title: LitSkis - Adding excitement to your outdoor experience
     * *Fully waterproof and guaranteed to last*  
     
     
-<img src="https://github.com/Scribee/Scribee.github.io/blob/master/images/examples/purpleskis.jpg" alt="LED example 1" width="250">  <img src="https://github.com/Scribee/Scribee.github.io/blob/master/images/examples/rainbowskis.jpg" alt="LED example 2" width="250">  
+<img src="https://raw.githubusercontent.com/Scribee/Scribee.github.io/master/images/examples/purpleskis.jpg" alt="LED example 1" width="250">  <img src="https://raw.githubusercontent.com/Scribee/Scribee.github.io/master/images/examples/rainbowskis.jpg" alt="LED example 2" width="250">  
     
     
 # Grab everyone's attention  
   
   **With a variety of bright, colorful, continuously moving patterns**
 
-  ### Be the only one on the mountain  
+  ## Be the only one on the mountain  
   * **Specially programmed addressable LED strips**
   * **6 cycling patterns**
 	* *Sync both skis or leave them mismatched*
