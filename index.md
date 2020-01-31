@@ -5,9 +5,9 @@ title: LitSkis - Adding excitement to your outdoor experience
 
 # What are they?  
 
-  **Eye-catching, unique, and extremely fun addon LED strips for your skis, snowboard, or anything else!**
-   
-  ## LitSki kits are  
+**Eye-catching, unique, and extremely fun addon LED strips for your skis, snowboard, or anything else!**
+
+### LitSki kits are  
   * **Easy to install**
     * *Attach to any clean surface using the built in adhesive*
   * **Non-permanent**
@@ -23,9 +23,9 @@ title: LitSkis - Adding excitement to your outdoor experience
     
 # Grab everyone's attention  
   
-  **With a variety of bright, colorful, continuously moving patterns**
+**With a variety of bright, colorful, continuously moving patterns**
 
-  ## Be the only one on the mountain  
+### Be the only one on the mountain  
   * **Specially programmed addressable LED strips**
   * **6 cycling patterns**
 	* *Sync both skis or leave them mismatched*
