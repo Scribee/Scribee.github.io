@@ -2,9 +2,6 @@
 title: LitSkis - Adding excitement to your outdoor experience
 ---
 
-***
-### Adding excitement to your outdoor experience  
-
 
 # What are they?  
 
