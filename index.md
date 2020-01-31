@@ -1,5 +1,5 @@
 ---
-title: LitSkis | Adding excitement to your outdoor experience
+title: LitSkis - Adding excitement to your outdoor experience
 ---
 
 ***
@@ -21,7 +21,7 @@ title: LitSkis | Adding excitement to your outdoor experience
     * *Fully waterproof and guaranteed to last*  
     
     
-<img src="https://github.com/Scribee/Scribee.github.io/blob/master/IMG_20200125_194525506.jpg" alt="LED skis example" width="250">  <img src="https://github.com/Scribee/Scribee.github.io/blob/master/IMG_20200125_194658466.jpg" alt="LED skis example" width="250">  
+<img src="https://github.com/Scribee/Scribee.github.io/blob/master/images/examples/purpleskis.jpg" alt="LED example 1" width="250">  <img src="https://github.com/Scribee/Scribee.github.io/blob/master/images/examples/rainbowskis.jpg" alt="LED example 2" width="250">  
     
     
 # Grab everyone's attention  
@@ -30,4 +30,7 @@ title: LitSkis | Adding excitement to your outdoor experience
 
   ### Be the only one on the mountain  
   * **Specially programmed addressable LED strips**
+  * **6 cycling patterns**
+	* *Sync both skis or leave them mismatched*
   * **5+ hours battery life even in the coldest conditions**
+	* *Recharges fully in 3.5 hours*
